@@ -364,6 +364,7 @@ body {
   font-size: 1.1rem;
   line-height: 1.8;
   color: var(--deep-brown);
+  text-align: justify;
 }
 
 .about-text h3 {
